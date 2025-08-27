@@ -22,8 +22,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="GOSPEL TV" className="logo-img" />
-                <span className="studio-name">GOSPEL TV</span>
+                <img src={logoImg} alt="Mohamed Ezz ElDin Studio" className="logo-img" />
+                <span className="studio-name">Mohamed Ezz ElDin Studio</span>
               </div>
             </div>
 
@@ -55,8 +55,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Welcome to GOSPEL TV</h2>
-            <p className="about-text">GOSPEL TV is a mobile app development studio focused on building innovative, high-quality, and user-friendly applications. Our official website showcases the full range of apps developed by GOSPEL TV – from casual games and productivity tools to educational and lifestyle applications.
+            <h2 className="highlight-title">Welcome to Mohamed Ezz ElDin Studio</h2>
+            <p className="about-text">Mohamed Ezz ElDin Studio is a mobile app development studio focused on building innovative, high-quality, and user-friendly applications. Our official website showcases the full range of apps developed by Mohamed Ezz ElDin Studio – from casual games and productivity tools to educational and lifestyle applications.
             </p>
           </div>
           <div className="about-img-container">
@@ -92,12 +92,9 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto:gospeltv446@gmail.com">gospeltv446@gmail.com</a><br />
-            <span style={{ display: 'inline-block', marginTop: '10px' }}>
-              📍 MediaAlpha, Inc.
-                700 S Flower St Ste 640
-                Los Angeles - 90017-4122
-                United States (US)
+            <a href="mailto:mohamed.ezz19991@gmail.com">mohamed.ezz19991@gmail.com</a><br />
+            <span style={{ display: 'inline-block', marginTop: '10px' }}>📍 محمد عز الدين عبد المنعم طنطاوي مجاورة 24 قطعة 128 مدينة ١٥ مايو حلوان - 11426 Egypt (EG)
+
             </span>
           </p>
         </div>
@@ -118,7 +115,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} GOSPEL TV. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Mohamed Ezz ElDin Studio. All rights reserved.</p>
           </div>
         </footer>
       </div>
