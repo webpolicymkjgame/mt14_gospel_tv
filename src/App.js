@@ -92,9 +92,12 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto:mohamed.ezz19991@gmail.com">mohamed.ezz19991@gmail.com</a><br />
-            <span style={{ display: 'inline-block', marginTop: '10px' }}>📍 محمد عز الدين عبد المنعم طنطاوي مجاورة 24 قطعة 128 مدينة ١٥ مايو حلوان - 11426 Egypt (EG)
-
+            <a href="mailto:gospeltv446@gmail.com">gospeltv446@gmail.com</a><br />
+            <span style={{ display: 'inline-block', marginTop: '10px' }}>
+            📍 MediaAlpha, Inc.
+              700 S Flower St Ste 640
+              Los Angeles - 90017-4122
+              United States (US)
             </span>
           </p>
         </div>
